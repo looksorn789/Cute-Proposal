@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
- <title>CECS105 Spring 2021</title>
+ <title>Cute Proposal Website</title>
  </head>
  <body>
- <h1>Hello World!! </h1>
- <h3> It's Pornthep Bootchot </h3>
+ <h1>I used my vtube model as an example :D</h1>
+
  </body>
  </html>
-You can use the app to push the file. Use the commit to main button at bottom. 
+Please share this website for anyone you wish to send to!
